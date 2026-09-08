@@ -7,7 +7,7 @@ import Vote from "./pages/Vote";
 import Result from "./pages/Result";
 import AdminLogin from "./pages/AdminLogin";
 import AdminDashboard from "./pages/AdminDashboard";
-import ViewVotes from "./viewvotes";
+import ViewVotes from "./ViewVotes";
 
 function App() {
   return (
